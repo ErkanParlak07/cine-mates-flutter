@@ -25,6 +25,6 @@ Bu proje, **REST API entegrasyonu**, **Asenkron State Yönetimi** ve **Gelişmi�
 | Ana Sayfa (Grid) | Detay Sayfası (Parallax) |
 
 
-
+| ![AnaSayfa](./screenshots/Film.png) | ![Detay](./screenshots/FilmDetay.png) |
 
 
